@@ -1,0 +1,106 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String         @id @default(cuid())
+  email         String         @unique
+  password      String
+  name          String
+  role          String         @default("artist")
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  artistProfile ArtistProfile?
+  juryProfile   JuryProfile?
+  scores        Score[]
+  submissions   Submission[]
+}
+
+model ArtistProfile {
+  id          String   @id @default(cuid())
+  userId      String   @unique
+  bio         String?
+  website     String?
+  socialLinks String?
+  avatarUrl   String?
+  country     String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model JuryProfile {
+  id        String   @id @default(cuid())
+  userId    String   @unique
+  title     String
+  bio       String?
+  avatarUrl String?
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Submission {
+  id           String   @id @default(cuid())
+  artistId     String?
+  artistName   String
+  email        String
+  country      String
+  artworkTitle String?
+  statement    String?
+  imageUrls    String
+  status       String   @default("pending")
+  anonymousId  String?  @unique
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  scores       Score[]
+  artist       User?    @relation(fields: [artistId], references: [id])
+}
+
+model Score {
+  id           String     @id @default(cuid())
+  submissionId String
+  juryId       String
+  creativity   Int
+  technique    Int
+  concept      Int
+  presentation Int
+  total        Int
+  comments     String?
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+  jury         User       @relation(fields: [juryId], references: [id], onDelete: Cascade)
+  submission   Submission @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+
+  @@unique([submissionId, juryId])
+}
+
+model Event {
+  id          String    @id @default(cuid())
+  title       String
+  description String
+  location    String
+  startDate   DateTime
+  endDate     DateTime?
+  imageUrl    String?
+  status      String    @default("upcoming")
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model NewsItem {
+  id        String   @id @default(cuid())
+  title     String
+  content   String
+  excerpt   String?
+  imageUrl  String?
+  published Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

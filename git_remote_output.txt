@@ -1,0 +1,2 @@
+origin	https://github.com/Yohannesdeveloper/Waka-nexus.git (fetch)
+origin	https://github.com/Yohannesdeveloper/Waka-nexus.git (push)

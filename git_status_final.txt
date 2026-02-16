@@ -1,0 +1,64 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    app/(locale/)/layout.tsx
+	deleted:    app/about/page.tsx
+	deleted:    app/admin/actions.ts
+	deleted:    app/admin/cms-actions.ts
+	deleted:    app/admin/cms/components/CMSDashboard.tsx
+	deleted:    app/admin/cms/components/ContentManager.tsx
+	deleted:    app/admin/cms/components/EventManager.tsx
+	deleted:    app/admin/cms/components/NewsManager.tsx
+	deleted:    app/admin/cms/page.tsx
+	deleted:    app/admin/cms/partners/page.tsx
+	deleted:    app/admin/components/AdminDashboard.tsx
+	deleted:    app/admin/components/AdminLogin.tsx
+	deleted:    app/admin/components/SubmissionCard.tsx
+	deleted:    app/admin/page.tsx
+	deleted:    app/apply/actions.ts
+	deleted:    app/apply/form.tsx
+	deleted:    app/apply/page.tsx
+	deleted:    app/artist/dashboard/page.tsx
+	deleted:    app/artist/profile/page.tsx
+	deleted:    app/artist/submissions/[id]/edit/page.tsx
+	deleted:    app/artists/page.tsx
+	deleted:    app/auth/actions.ts
+	deleted:    app/auth/jury/page.tsx
+	deleted:    app/auth/login/page.tsx
+	deleted:    app/auth/register/page.tsx
+	deleted:    app/competition/page.tsx
+	modified:   app/components/Navbar.tsx
+	deleted:    app/contact/page.tsx
+	deleted:    app/exhibitions/page.tsx
+	deleted:    app/investors/page.tsx
+	deleted:    app/jury-governance/page.tsx
+	deleted:    app/jury/actions.ts
+	deleted:    app/jury/components/JuryReviewForm.tsx
+	deleted:    app/jury/page.tsx
+	deleted:    app/layout.tsx
+	deleted:    app/media/page.tsx
+	deleted:    app/news-events/page.tsx
+	deleted:    app/page.tsx
+	deleted:    app/partners/page.tsx
+	modified:   i18n/request.ts
+	modified:   lib/submissions.ts
+	modified:   middleware.ts
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	app/[locale]/
+	build.log
+	git_remote_output.txt
+	git_status_after.txt
+	git_status_final.txt
+	git_status_output.txt
+	lib/admin-actions.ts
+	lib/apply-actions.ts
+	lib/auth-actions.ts
+	lib/cms-actions.ts
+	lib/jury-actions.ts
+
+no changes added to commit (use "git add" and/or "git commit -a")

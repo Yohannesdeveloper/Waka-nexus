@@ -1,0 +1,645 @@
+{
+  "metadata": {
+    "title": "ዋካ ኔክሰስ - ዓለም አቀፍ የኪነ-ጥበብ ሽልማት",
+    "description": "ከዓለም ዙሪያ የሚመጡ ብቁ የኪነ-ጥበብ ችሎታዎችን ያስሱ እና ያከብሩ",
+    "keywords": "ዓለም አቀፍ የኪነ-ጥበብ ኤግዚቢሽን፣ የዩኤኢ የኪነ-ጥበብ ተነሳሽነት፣ ዓለም አቀፍ የኪነ-ጥበብ ውድድር፣ የባህል መድረክ ዩኤኢ፣ የፈጠራ ኢኮኖሚ መድረክ"
+  },
+  "nav": {
+    "home": "መነሻ",
+    "artists": "አርቲስቶች",
+    "exhibitions": "ኤግዚቢሽኖች",
+    "newsEvents": "ዜና እና ዝግጅቶች",
+    "investors": "ኢንቬስተሮች",
+    "competition": "ውድድር",
+    "juryGovernance": "ዳኞች እና አስተዳደር",
+    "partners": "አጋሮች",
+    "media": "ሚዲያ",
+    "contact": "አግኙን",
+    "about": "ስለ እኛ",
+    "submitArtwork": "ጥበብ ያስገቡ",
+    "login": "ግባ",
+    "dashboard": "ዳሽቦርድ"
+  },
+  "home": {
+    "hero": {
+      "subtitle": "ዋካ ዓለም አቀፍ የኪነ-ጥበብ እና ሙዚቃ ኔክሰስ",
+      "title": "ጥበብ፣ ባህል እና ከተሞችን በዓለም ዙሪያ በማገናኘት",
+      "tagline": "ከዩናይትድ አረብ ኢሚሬትስ በመነሳት፣ ዋካ ለተደራጁ የቪዥዋል አርት ኤግዚቢሽኖች፣ ግልጽ የውድድር ደረጃዎች እና በባህላዊ ውይይት ላይ የተመሰረተ ዓለም አቀፍ መድረክ ነው።",
+      "description": "",
+      "ctaPrimary": "እንደ አርቲስት ያመልክቱ",
+      "ctaSecondary": "አጋር ይሁኑ",
+      "ctaDownload": "የሥራ ዝርዝር ያውርዱ",
+      "cta": "የእርስዎን ሥራ ያስገቡ"
+    },
+    "about": {
+      "subtitle": "የእኛ ታሪክ",
+      "title": "የእኛ ታሪክ",
+      "description": "ዋካ ዓለም አቀፍ የኪነ-ጥበብ እና ሙዚቃ ኔክሰስ አርቲስቶችን፣ ተቋማትን እና ታዳሚዎችን በአህጉራት ያገናኝ የራሱ የሆነ ባህላዊ ተነሳሽነት ነው። በተደራጁ ኤግዚቢሽኖች፣ ሙያዊ አስተዳደር እና ዓለም አቀፍ አጋርነቶች በኩል፣ ዋካ የኪነ-ጥበብ ብቃት እና ዘላቂ ባህላዊ ትብብርን ያበረታታል።"
+    },
+    "whatWeDo": {
+      "subtitle": "የእኛ ተግባራት",
+      "title": "ምን እናደርጋለን",
+      "exhibitions": {
+        "title": "ዓለም አቀፍ ኤግዚቢሽኖች",
+        "description": "በተመረጡ ዓለም አቀፍ ከተሞች የሚካሄዱ የተደራጁ የቪዥዋል አርት ትዕይንቶች።"
+      },
+      "competition": {
+        "title": "የኪነ-ጥበብ ውድድር",
+        "description": "በነፃ የዳኝነት ክፍለ ጊዜ በሚመራ ግልጽ የግምገማ ሂደት።"
+      },
+      "dialogue": {
+        "title": "ባህላዊ ውይይት",
+        "description": "ዓለም አቀፍ ትብብርን የሚያበረታቱ ፓናል ውይይቶች እና ሙያዊ አውታረመረብ።"
+      }
+    },
+    "approach": {
+      "subtitle": "እንዴት እንሰራለን",
+      "title": "የእኛ አቀራረብ",
+      "points": {
+        "governed": "ነፃ እና ሙያዊ በሆነ መልኩ የሚተዳደር",
+        "inclusive": "ፖለቲካ የሌለው እና ባህላዊ በሆነ መልኩ የሚያካትት",
+        "scalable": "ለዓለም አቀፍ ስርጉት የተዋቀረ",
+        "collaboration": "ለተቋማዊ ትብብር የተዘጋጀ"
+      }
+    }
+  },
+  "about": {
+    "title": "ስለ ዋካ",
+    "subtitle": "ስለ ዋካ",
+    "description": "ዋካ ዓለም አቀፍ የኪነ-ጥበብ እና ሙዚቃ ኔክሰስ ከዩናይትድ አረብ ኢሚሬትስ የተነሳ የዓለም አቀፍ ባህላዊ መድረክ ነው። በተለያዩ ዓለም አቀፍ ከተሞች ውስጥ የተደራጁ የኤግዚቢሽን እድሎችን እና በሙያዊ መንገድ የሚተዳደሩ የኪነ-ጥበብ ውድድሮችን ለመስጠት ይዘን ተዘጋጅቷል።\n\nይህ ተነሳሽነት በተቀባይነት አገሮች የሕግ አቅጣጫዎች ውስጥ በመሠረት ለመሠራት የተዘጋጀ ቢሆንም ግልጽነት፣ የሥነ-ምግባር መስፈርቶች እና ሙያዊ አንድነትን ለማሳደግ ይረዳል።\n\nዋካ በባህላዊ አቅጣጫ እና ባህላዊ ትብብር በኩል ከመካከለኛው እየስራ፣ አፍሪካ፣ አውሮፓ እና ሁለትዮሽ አሜሪካ መካከል ለግንኙነት ጥንካሬ ያደርገዋል።",
+    "visionTitle": "የእኛ እይታ",
+    "vision": "ከአርቲስቶች፣ ከተሞች እና ከፈጠራዊ ኢኮኖሚያት ጋር በዘላቂ እና በሙያዊ መንገድ የሚተዳደሩ መድረኮች በኩል የሚገናኙ በዓለም ዙሪያ የሚተዳደር ባህላዊ ተቋም ለመገንባት።",
+    "missionTitle": "የእኛ ሚና",
+    "mission": [
+      "የሚፈጠሩ እና የተመረተ አርቲስቶችን ያበረታታል",
+      "የዓለም አቀፍ ባህላዊ ልውውጦችን ያመቻል",
+      "ግልጽ የውድድር መስፈርቶችን ይገንባል",
+      "ረጅም ጊዜ የሚቆይ የተቋማዊ አጋርነቶችን ይገንባል",
+      "የፈጠራዊ ኢኮኖሚያት እድገትን ያደርገዋል"
+    ]
+  },
+  "auth": {
+    "login": {
+      "title": "እንኳን ደህና መጡ",
+      "subtitle": "የአርቲስት መግቢያ",
+      "description": "ስላብሚሽኖችዎ እና መገለጫዎ ለማስተዳደር ይግቡ።",
+      "email": "ኢሜይል",
+      "password": "የይለፍ ቃል",
+      "submit": "ግባ",
+      "submitting": "በመግባት ላይ...",
+      "noAccount": "መለያ የለዎትም?",
+      "register": "ይመዝገቡ",
+      "error": {
+        "default": "መግባት አልተሳካም",
+        "generic": "ስህተት ተፈጥሯል። እባክዎ እንደገና ይሞክሩ።"
+      }
+    },
+    "about": {
+      "subtitle": "የእኛ ታሪክ",
+      "title": "የእኛ ታሪክ",
+      "description": "ዋካ ዓለም አቀፍ የኪነ-ጥበብ እና ሙዚቃ ኔክሰስ አርቲስቶችን፣ ተቋማትን እና ታዳሚዎችን በአህጉራት ያገናኝ የራሱ የሆነ ባህላዊ ተነሳሽነት ነው። በተደራጁ ኤግዚቢሽኖች፣ ሙያዊ አስተዳደር እና ዓለም አቀፍ አጋርነቶች በኩል፣ ዋካ የኪነ-ጥበብ ብቃት እና ዘላቂ ባህላዊ ትብብርን ያበረታታል።"
+    },
+    "register": {
+      "title": "ይቀላቀሉን",
+      "subtitle": "የአርቲስት ምዝገባ",
+      "description": "ስራዎትን ለማስገባት እና ለመከታተል መለያ ይፍጠሩ።",
+      "name": "ሙሉ ስም",
+      "email": "ኢሜይል",
+      "country": "አገር",
+      "password": "የይለፍ ቃል",
+      "passwordHint": "ቢያንስ 6 ቁምፊዎች",
+      "confirmPassword": "የይለፍ ቃል ያረጋግጡ",
+      "submit": "መለያ ይፍጠሩ",
+      "submitting": "መለያ በመፍጠር ላይ...",
+      "hasAccount": "አስቀድሞ መለያ አለዎት?",
+      "login": "ግባ",
+      "required": "አስፈላጊ",
+      "error": {
+        "passwordMismatch": "የይለፍ ቃሎች አይዛመዱም",
+        "passwordLength": "የይለፍ ቃል ቢያንስ 6 ቁምፊዎች መሆን አለበት",
+        "default": "ምዝገባ አልተሳካም",
+        "generic": "ስህተት ተፈጥሯል። እባክዎ እንደገና ይሞክሩ።"
+      }
+    }
+  },
+  "artist": {
+    "dashboard": {
+      "title": "እንኳን ደህና መጡ",
+      "subtitle": "የአርቲስት ፖርታል",
+      "description": "ስላብሚሽኖችዎን ያስተዳድሩ፣ ሁኔታቸውን ይከታተሉ፣ እና የዳኞች ግብረመልስ ይመልከቱ።",
+      "logout": "ውጣ",
+      "stats": {
+        "totalSubmissions": "ጠቅላላ ስላብሚሽኖች",
+        "pending": "በመጠባበቅ ላይ",
+        "approved": "የተፈቀደ",
+        "rejected": "የተከለከለ",
+        "averageScore": "አማካይ ነጥብ"
+      },
+      "actions": {
+        "newSubmission": "አዲስ ስላብሚሽን",
+        "editProfile": "መገለጫ ያስተካክሉ"
+      },
+      "submissions": {
+        "title": "የእርስዎ ስላብሚሽኖች",
+        "empty": "እስካሁን ምንም ስላብሚሽኖች የሉም።",
+        "submitFirst": "የመጀመሪያ ጥበብዎትን ያስገቡ",
+        "submitted": "የተስገባ",
+        "score": "ነጥብ",
+        "juryReviews": "የዳኝነት ግምገማዎች",
+        "feedback": "የዳኞች ግብረመልስ",
+        "edit": "አስተካክል",
+        "delete": "ሰርዝ",
+        "creativity": "ፈጠራ",
+        "technique": "ቴክኒክ",
+        "concept": "አስተሳሰብ",
+        "presentation": "ቅርጸት",
+        "review": "ግምገማ",
+        "status": {
+          "pending": "በመጠባበቅ ላይ",
+          "approved": "የተፈቀደ",
+          "rejected": "የተከለከለ"
+        },
+        "scoreAbbr": {
+          "creativity": "ፍ",
+          "technique": "ቴ",
+          "concept": "አ",
+          "presentation": "ቅ"
+        }
+      },
+      "profile": {
+        "backToDashboard": "← ወደ ዳሽቦርድ ይመለሱ",
+        "title": "መገለጫ ያስተካክሉ",
+        "description": "የአርቲስት መገለጫዎን መረጃ ያዘምኑ።",
+        "bioLabel": "ባዮግራፊ",
+        "bioPlaceholder": "ስለ እራስዎ እና ስለ ጥበብዎ ይንገሩን...",
+        "websiteLabel": "ድር ጣቢያ",
+        "websitePlaceholder": "https://yourwebsite.com",
+        "countryLabel": "አገር",
+        "countryPlaceholder": "የእርስዎ አገር",
+        "socialLinksLabel": "ማህበራዊ ሚዲያ ማገናኛዎች (JSON ቅርጸት)",
+        "socialLinksPlaceholder": "{\"instagram\": \"@yourhandle\", \"twitter\": \"@yourhandle\"}",
+        "socialLinksHint": "አማራጭ፡ ማህበራዊ ሚዲያ ማገናኛዎችዎን በJSON ቅርጸት ይጨምሩ",
+        "saveChanges": "ለውጦችን አስቀምጥ",
+        "cancel": "ይቅር"
+      }
+    }
+  },
+  "jury": {
+    "portal": {
+      "title": "እንኳን ደህና መጡ",
+      "subtitle": "የዳኝነት ፖርታል",
+      "description": "ስላብሚሽኖችን በስም ሳይታወቅ ይገምግሙ። ግብረመልስዎ ለኤግዚቢሽኖቻችን ምርጥ ጥበብ ለመምረጥ ይረዳናል።",
+      "logout": "ውጣ",
+      "stats": {
+        "pendingReview": "በመጠባበቅ ላይ",
+        "scored": "የተገመገመ",
+        "total": "ጠቅላላ ስላብሚሽኖች"
+      },
+      "pending": {
+        "title": "በመጠባበቅ ላይ",
+        "empty": "ምንም በመጠባበቅ ላይ ያሉ ስላብሚሽኖች የሉም። በጣም ጥሩ!"
+      },
+      "scored": {
+        "title": "የገመገሙአቸው ስላብሚሽኖች",
+        "empty": "እስካሁን ምንም ስላብሚሽኖችን አልገመገሙም።",
+        "yourComments": "የእርስዎ አስተያየቶች፡"
+      },
+      "submission": {
+        "anonymous": "የማይታወቅ ስላብሚሽን"
+      },
+      "score": {
+        "label": "ነጥብ"
+      },
+      "scoring": {
+        "creativity": "ፈጠራ",
+        "technique": "ቴክኒክ",
+        "concept": "አስተሳሰብ",
+        "presentation": "ቅርጸት",
+        "comments": "አስተያየቶች",
+        "submit": "ነጥብ ያስገቡ",
+        "cancel": "ይቅር",
+        "anonymous": "የማይታወቅ ስላብሚሽን",
+        "artistStatement": "የአርቲስት መግለጫ",
+        "placeholder": "ስለዚህ ጥበብ ሀሳቦን ያካፍሉ...",
+        "submitting": "በማስገባት ላይ...",
+        "failed": "ነጥብ ማስገባት አልተሳካም",
+        "error": "ስህተት ተፈጥሯል። እባክዎ እንደገና ይሞክሩ።",
+        "optionalLabel": "አማራጭ"
+      }
+    }
+  },
+  "exhibitions": {
+    "title": "ኤግዚቢሽኖች",
+    "description": "ከዓለም ዙሪያ በአርቲስቶች የቀረበውን ጥበብ ያስሱ።",
+    "upcoming": "በመጠባበቅ ላይ",
+    "ongoing": "በመካሄድ ላይ",
+    "past": "ያለፉ"
+  },
+  "newsEvents": {
+    "title": "ዜና እና ዝግጅቶች",
+    "description": "ከዋካ ኔክሰስ የቅርብ ዝማኔዎች እና በመጠባበቅ ላይ ያሉ ዝግጅቶች",
+    "latestNews": "የቅርብ ዜናዎች",
+    "upcomingEvents": "በመጠባበቅ ላይ ያሉ ዝግጅቶች",
+    "stayUpdated": "የቅርብ ዝማኔዎችን ይከታተሉ",
+    "discover": "የቅርብ ኤግዚቢሽኖቻችንን፣ የአርቲስት ተለይተው የቀረቡ ገጽታዎችን እና ከዓለም ዙሪያ በመጠባበቅ ላይ ያሉ ዝግጅቶችን ያስሱ።",
+    "noEvents": "በአሁኑ ጊዜ ምንም ዝግጅቶች የሉም። በቅርብ ይመለሱ!",
+    "noNews": "እስካሁን ምንም የዜና ጽሑፎች የሉም። ተጠባበቁ!",
+    "cta": {
+      "title": "በኤግዚቢሽኖቻችን ላይ መታየት ይፈልጋሉ?",
+      "button": "ጥበብዎትን ያስገቡ"
+    }
+  },
+  "competition": {
+    "title": "የኪነ-ጥበብ ውድድር",
+    "description": "ውድድሮቻችን በዘመናዊ ቪዥዋል አርትስ የብቃትን ያከብራሉ እና ለአርቲስቶች ዓለም አቀፍ ምርጫ እና ሙያን የሚወስኑ እድሎችን ይሰጣሉ።",
+    "subtitle": "ዝና እና እድል",
+    "participate": "በእኛ ከፍተኛ የኪነ-ጥበብ ውድድሮች ይሳተፉ እና ችሎታዎን ለዓለም ያሳዩ።",
+    "checkBack": "በመጠባበቅ ላይ ያሉ ውድድሮችን እና እድሎችን ለማየት በቅርብ ይመለሱ!",
+    "submitArtwork": "ጥበብዎትን ያስገቡ",
+    "applyNow": "አሁን ያመልክቱ",
+    "location": "ቦታ",
+    "starts": "የሚጀመርበት ቀን",
+    "eligibility": "ብቁነት",
+    "prizes": "ሽልማቶች",
+    "timeline": "የጊዜ ሰሌዳ",
+    "howToApply": "እንዴት ለማመልከት"
+  },
+  "admin": {
+    "login": {
+      "subtitle": "የአስተዳደር መግቢያ",
+      "title": "የይለፍ ቃል ያስገቡ",
+      "description": "ይህ ቦታ ለተፈቀደላቸው ሰራተኞች ብቻ ነው።",
+      "password": "የይለፍ ቃል",
+      "placeholder": "የአስተዳደር የይለፍ ቃል ያስገቡ",
+      "submit": "ዳሽቦርድ ይጂ",
+      "submitting": "በማረጋገጥ ላይ...",
+      "error": {
+        "invalid": "የተሳሳተ የይለፍ ቃል",
+        "generic": "ስህተት ተፈጥሯል። እባክዎ እንደገና ይሞክሩ።"
+      }
+    },
+    "dashboard": {
+      "subtitle": "የአስተዳደር ዳሽቦርድ",
+      "title": "የጥበብ መሥሪያ",
+      "description": "ስላብሚሽኖችን በኤግዚቢሽኖች ላይ ከመታየታቸው በፊት ይገምግሙ እና ያስተዳድሩ።",
+      "buttons": {
+        "contentManager": "የይዘት ሥራ አስኪያጅ",
+        "managePartners": "አጋሮችን ያስተዳድሩ",
+        "juryManagement": "የዳኝነት አስተዳደር",
+        "uploadCompetition": "+ ውድድር ያስገቡ",
+        "logout": "ውጣ"
+      },
+      "stats": {
+        "pendingReview": "በመጠባበቅ ላይ",
+        "approved": "የተፈቀደ",
+        "rejected": "የተከለከለ"
+      },
+      "filters": {
+        "all": "ሁሉም",
+        "pending": "በመጠባበቅ ላይ",
+        "approved": "የተፈቀደ",
+        "rejected": "የተከለከለ"
+      },
+      "sort": {
+        "newest": "አዲስ",
+        "oldest": "የበረራ",
+        "artist": "አርቲስት"
+      },
+      "noSubmissions": "ለተመረጠው ማጣሪያ ምንም ስላብሚሽኖች አልተገኙም።"
+    },
+    "cms": {
+      "subtitle": "የይዘት አስተዳደር",
+      "title": "CMS ዳሽቦርድ",
+      "description": "የድር ጣቢያዎን ዝግጅቶች፣ ዜናዎች እና አጋሮች ያስተዳድሩ።",
+      "buttons": {
+        "managePartners": "አጋሮችን ያስተዳድሩ",
+        "backToAdmin": "← ወደ አስተዳደር ይመለሱ"
+      },
+      "tabs": {
+        "events": "ዝግጅቶች",
+        "news": "ዜናዎች",
+        "eventsCount": "ዝግጅቶች ({count})",
+        "newsCount": "ዜናዎች ({count})"
+      },
+      "contentManager": {
+        "addEvent": "+ ዝግጅት ይጨምሩ",
+        "addNews": "+ ዜና ይጨምሩ",
+        "editEvent": "ዝግጅት ያስተካክሉ",
+        "createEvent": "ዝግጅት ይፍጠሩ",
+        "editNews": "ዜና ያስተካክሉ",
+        "createNews": "ዜና ይፍጠሩ",
+        "imageLabel": "ምስል",
+        "imageOptional": "(አማራጭ)",
+        "removeImage": "ምስሉን ያስወግዱ",
+        "uploadImage": "ምስል ለመጫን ጠቅ ያድርጉ",
+        "fileTypes": "JPEG፣ PNG፣ WebP (ከፍተኛው 5MB)",
+        "titleLabel": "ርዕስ *",
+        "locationLabel": "ቦታ *",
+        "startDateLabel": "የመጀመሪያ ቀን *",
+        "endDateLabel": "የመጨረሻ ቀን",
+        "excerptLabel": "ማጠቃለያ",
+        "excerptPlaceholder": "አጭር ማጠቃለያ...",
+        "descriptionLabel": "መግለጫ",
+        "contentLabel": "ይዘት *",
+        "publishImmediately": "ወዲያውኑ ያትሙ",
+        "cancel": "ይቅር",
+        "saving": "በማስቀመጥ ላይ...",
+        "update": "አዘምን",
+        "create": "ፍጠር",
+        "noEvents": "እስካሁን ምንም ዝግጅቶች የሉም። የመጀመሪያዎትን ይፍጠሩ!",
+        "noNews": "እስካሁን ምንም ዜናዎች የሉም። የመጀመሪያዎትን ይፍጠሩ!",
+        "published": "የታተመ",
+        "draft": "ረቂቅ",
+        "unpublish": "አታትም",
+        "publish": "አትም",
+        "edit": "አስተካክል",
+        "delete": "ሰርዝ",
+        "deleteConfirmEvent": "ይህን ዝግጅት ለማስወገድ እርግጠኛ ነዎት?",
+        "deleteConfirmNews": "ይህን ዜና ለማስወገድ እርግጠኛ ነዎት?",
+        "imageErrorSize": "ምስል ከ5MB መብለጥ የለበትም",
+        "imageErrorType": "የሚፈቀዱት JPEG፣ PNG እና WebP ብቻ ናቸው"
+      },
+      "partners": {
+        "subtitle": "CMS",
+        "title": "የአጋሮች አስተዳደር",
+        "loading": "በመጫን ላይ...",
+        "viewPage": "የአጋሮች ገጽ ይመልከቱ →",
+        "backToCms": "← ወደ CMS ይመለሱ",
+        "form": {
+          "editTitle": "አጋር ያስተካክሉ",
+          "addTitle": "አዲስ አጋር ይጨምሩ",
+          "nameLabel": "የአጋር ስም",
+          "namePlaceholder": "ለምሳሌ፣ ቴት ሞደርን",
+          "categoryLabel": "ምድብ",
+          "websiteLabel": "ድር ጣቢያ (አማራጭ)",
+          "websitePlaceholder": "https://example.com",
+          "logoLabel": "ሎጎ",
+          "logoKeepHint": "(አዲስ ፋይል ካልተመረጠ የአሁኑ ሎጎ ይቆያል)",
+          "selected": "ተመርጧል",
+          "preview": "ቅድመ ዕይታ",
+          "cancel": "ይቅር",
+          "saving": "በማስቀመጥ ላይ...",
+          "update": "አጋር ያዘምኑ",
+          "add": "አጋር ይጨምሩ"
+        },
+        "list": {
+          "title": "አሁን ያሉ አጋሮች",
+          "noPartners": "እስካሁን ምንም አጋሮች አልተጨመሩም።",
+          "noLogo": "ሎጎ የለም",
+          "edit": "ያስተካክሉ",
+          "delete": "ያስወግዱ",
+          "deleteConfirm": "ይህን አጋር ለማስወገድ እርግጠኛ ነዎት?"
+        }
+      }
+    },
+    "submissionCard": {
+      "moreImages": "ተጨማሪ",
+      "artistStatement": "የአርቲስት መግለጫ",
+      "approve": "አጽድቅ",
+      "alreadyApproved": "አስቀድሞ ተጸድቋል",
+      "reject": "አይቀበል",
+      "alreadyRejected": "አስቀድሞ ተከልክሏል",
+      "confirmDelete": "ሰረዝ ያረጋግጡ",
+      "deleteWarning": "ይህን ስላብሚሽን ከ{artistName} ለማስወገድ እርግጠኛ ነዎት? ይህ እርምጃ ሊቀለስ አይችልም።",
+      "cancel": "ይቅር",
+      "delete": "ሰርዝ",
+      "deleting": "በማስወገድ ላይ...",
+      "contact": "አግኙ"
+    }
+  },
+  "artists": {
+    "title": "ለአርቲስቶች ጥሪ",
+    "subtitle": "አርቲስቶች",
+    "description": "ዋካ ከዓለም ዙሪያ የመጡ የቪዥዋል አርቲስቶች በተደራጁ ዓለም አቀፍ መድረኩ ላይ እንዲሳተፉ ይጋብዛል።",
+    "eligibleDisciplines": "የሚቀበሉ ዘርፎች",
+    "disciplines": {
+      "painting": "ሥዕል",
+      "sculpture": "ቅርጽ ማስዋቢያ",
+      "photography": "ፎቶግራፊ",
+      "mixedMedia": "የተቀላቀለ ሚዲያ",
+      "digitalArt": "ዲጂታል አርት",
+      "installation": "ኢንስታሌሽን"
+    },
+    "selectionProcess": "የምርጫ ሂደት",
+    "selectionDescription": "ስላብሚሽኖች በነፃ የዳኝነት ኮሚቴ በሚከተሉት መስፈርቶች ይገመገማሉ፡",
+    "criteria": {
+      "creativity": "ፈጠራ",
+      "technicalExecution": "ቴክኒካል አፈጻጸም",
+      "originality": "ኦሪጂናሊቲ",
+      "conceptualImpact": "ኮንሴፕቹዋል ተፅእኖ"
+    },
+    "selectedArtistsReceive": "የተመረጡ አርቲስቶች ያገኛሉ",
+    "benefits": {
+      "exhibitionExposure": "ዓለም አቀፍ የኤግዚቢሽን ታይነት",
+      "professionalRecognition": "ሙያዊ እውቅና",
+      "mediaVisibility": "የሚዲያ ታይነት",
+      "networkingOpportunities": "የአውታረመረብ እድሎች"
+    },
+    "submitApplication": "ማመልከቻ ያስገቡ",
+    "cta": {
+      "title": "ስራዎትን ለማስገባት ዝግጁ ነዎት?",
+      "button": "አሁን ያመልክቱ"
+    }
+  },
+  "investors": {
+    "title": "ኢንቬስትመንት እና ስትራቴጂካዊ ድጋፍ",
+    "subtitle": "ኢንቬስተሮች",
+    "description": "ዋካ በዋና ዋና ከተሞች ውስጥ በማስፋፊያ በሚቀጥል ዓለም አቀፍ ባህላዊ መድረክ እንደሆነ ተቋቁሯል።",
+    "useOfCapital": "የሃብት አጠቃቀም",
+    "capitalItems": {
+      "exhibitionProduction": "የኤግዚቢሽን ምርት",
+      "operationalInfrastructure": "የኦፕሬሽን መሰረተ ልማት",
+      "governanceFramework": "የአስተዳደር ክፈፍ",
+      "marketingOutreach": "ማርኬቲንግ እና ድርድር",
+      "internationalCoordination": "ዓለም አቀፍ ትብብር"
+    },
+    "growthModel": "የእድገት ሞዴል",
+    "growthItems": {
+      "multiCityExpansion": "በብዙ ከተሞች ማስፋፊያ",
+      "sponsorshipRevenue": "የስፖንሰርነት ገቢ",
+      "institutionalCollaboration": "የተቋማት ትብብር",
+      "recurringEditions": "የሚደገሙ ዓመታዊ እትሞች"
+    },
+    "closingStatement": "የሚያዝኑ ኢንቬስተሮች ሙሉ ሀሳብ እና የፋይናንስ ትንበቦችን ሊጠይቁ ይችላሉ።",
+    "requestDeck": "የኢንቬስትመንት ዴክ ይጠይቁ",
+    "cta": {
+      "title": "ለመግባት ይፈልጋሉ?",
+      "button": "አግኙን"
+    }
+  },
+  "juryGovernance": {
+    "title": "የአስተዳደር ክፈፍ",
+    "subtitle": "አስተዳደር",
+    "description": "ዋካ ግልጽነትን፣ ፍትሃዊነትን እና ሙያዊ አንድነትን ለማረጋገጥ የተዋቀረ የአስተዳደር ሞዴል በስር ያደረገ ነው።",
+    "independentJury": {
+      "title": "ነፃ የዳኝነት ስርዓት",
+      "evaluationCriteria": "የታተሙ የግምገማ ደረጃዎች",
+      "scoringProcess": "የሰነድ የነጥብ ሂደት",
+      "conflictPolicy": "የጥቅም ግጭት ፖሊሲ",
+      "geographicDiversity": "የጂኦግራፊያዊ ብዝኃነት ውክልና"
+    },
+    "ethicalStandards": {
+      "title": "የሥነ-ምግባር ደረጃዎች",
+      "intellectualProperty": "ለአእምሮ ንብረት መብቶች አክብሮት",
+      "nonDiscriminatory": "ያልተዳከመ የምርጫ ሂደት",
+      "culturalSensitivity": "የባህላዊ ስሜት ብቃት",
+      "financialTransparency": "የገንዘብ ግልጽነት ቁርጠኝነት"
+    },
+    "closingStatement": "ዋካ የባህል እና የኪነ-ጥበብ እድገትን ብቻ በማተኮር የሉም ፖለቲካዊ እና የሉም ሃይማኖታዊ ተነሳሽነት ነው።"
+  },
+  "partners": {
+    "title": "አጋሮች እና ሰጪዎች",
+    "subtitle": "አጋሮች እና ሰጪዎች",
+    "description": "ዋካ ለኮርፖሬሽኖች፣ የፋይናንስ ተቋማት፣ የባህል አካላት እና ከፈጠራ እና ከዓለም አቀፍ ውይይት ጋር ለመስማማት የሚፈልጉ ዓለም አቀፍ ብራንዶች ስትራቴጂካዊ የአጋርነት እድሎችን ያቀርባል።",
+    "partnerWithWaka": "ከዋካ ጋር አጋር ይሁኑ",
+    "partnerWithWakaDescription": "ዋካ ለኮርፖሬሽኖች፣ የፋይናንስ ተቋማት፣ የባህል አካላት እና ከፈጠራ እና ከዓለም አቀፍ ውይይት ጋር ለመስማማት የሚፈልጉ ዓለም አቀፍ ብራንዶች ስትራቴጂካዊ የአጋርነት እድሎችን ያቀርባል።",
+    "sponsorshipCategories": "የስፖንሰርነት ምድቦች",
+    "categories": {
+      "titleSponsor": "ዋና ሰጪ",
+      "bankingPartner": "የባንክ አጋር",
+      "foundingPartner": "የመስራች አጋር",
+      "culturalPartner": "የባህል አጋር",
+      "mediaPartner": "የሚዲያ አጋር"
+    },
+    "partnerBenefits": "የአጋርነት ጥቅሞች",
+    "benefits": {
+      "logoPlacement": "በይፋዊ ቁሳቁሶች ላይ የሎጎ ቦታ",
+      "digitalVisibility": "የዲጂታል ዘመቻ ታይነት",
+      "pressRecognition": "በፕሬስ መገናኛዎች ውስጥ ማወቅ",
+      "eventBranding": "የዝግጅት ብራንዲንግ ታይነት",
+      "panelAcknowledgment": "የፓነል ውይይት እውቅና",
+      "venueAdvertising": "የመግቢያ እና መውጫ ቦታ ማስታወቂያ",
+      "socialMedia": "የማህበራዊ ሚዲያ ውህደት"
+    },
+    "closingStatement": "ዋካ በጋራ ዋጋዎች እና በሙያዊ ታማኝነት ላይ የተመሰረተ ረጅም ጊዜ የሚወስድ አጋርነትን ያስቀድማል።",
+    "becomePartner": "አጋር ይሁኑ",
+    "loading": "በመጫን ላይ...",
+    "noPartners": "እስካሁን ምንም አጋሮች አልተጨመሩም።",
+    "cta": {
+      "title": "ከእኛ ጋር ለመተባበር ይፈልጋሉ?",
+      "button": "አጋር ይሁኑ"
+    }
+  },
+  "media": {
+    "title": "ሚዲያ እና መገናኛ",
+    "subtitle": "ሚዲያ",
+    "description": "ዋካ የሚዲያ ትብብርን እና የባህላዊ ጋዜጠኝነት አጋርነቶችን ይቀበላል።",
+    "pressMaterials": {
+      "title": "የፕሬስ ቁሳቁሶች",
+      "description": "የፕሬስ ቁሳቁሶች በጥያቄ ሊገኙ ይችላሉ፡"
+    },
+    "materials": {
+      "executiveSummary": "የሥራ ዝርዝር",
+      "founderProfile": "የመስራች መገለጫ",
+      "brandingAssets": "ከፍተኛ ጥራት ያላቸው የብራንድ ቁሳቁሶች",
+      "eventAnnouncements": "የይፋዊ ዝግጅት ማስታወቂያዎች"
+    },
+    "contactLabel": "አግኙን፡",
+    "contactEmail": "press@wakanexus.com"
+  },
+  "contact": {
+    "title": "አግኙን",
+    "description": "ስለ ኤግዚቢሽኖች፣ ውድድሮች ወይም አጋርነቶች ጥያቄ አለዎት? ከእርስዎ መስማት እንፈልጋለን።",
+    "subtitle": "አግኙን",
+    "form": {
+      "name": "ስም",
+      "email": "ኢሜይል",
+      "subject": "ርዕስ",
+      "message": "መልእክት",
+      "send": "መልእክት ላክ",
+      "sending": "በመላክ ላይ...",
+      "placeholder": {
+        "name": "የእርስዎ ስም",
+        "email": "your@email.com",
+        "message": "መልእክትዎ..."
+      },
+      "topic": {
+        "label": "ርዕስ ይምረጡ",
+        "exhibitions": "ኤግዚቢሽኖች",
+        "competition": "ውድድር",
+        "partnerships": "አጋርነቶች",
+        "investment": "ኢንቬስትመንት",
+        "media": "ሚዲያ እና ፕሬስ",
+        "other": "ሌላ"
+      },
+      "success": "አመሰግናለሁ! መልእክትዎ በተሳካ ሁኔታ ተልኳል። በቅርቡ እናገኝዎታለን።",
+      "error": "ይቅርታ፣ መልእክትዎን በመላክ ላይ ስህተት ተፈጥሯል። እባክዎ ቆይተው እንደገና ይሞክሩ።"
+    },
+    "info": {
+      "title": "የእኛ መረጃ",
+      "generalInquiries": "ጠቅላላ ጥያቄዎች",
+      "generalEmail": "partnership@wakaglobal.com",
+      "sponsorship": "ስፖንሰርነት እና ተቋማት",
+      "sponsorshipEmail": "partners@wakaglobal.com",
+      "artistSubmissions": "የአርቲስት ማስገቢያዎች",
+      "artistEmail": "artists@wakaglobal.com",
+      "phone": "ስልክ",
+      "phoneNumber": "+971 50 676 3752"
+    }
+  },
+  "apply": {
+    "title": "እንደ አርቲስት ያመልክቱ",
+    "subtitle": "የማህበረሰቡ ክፍል ይሁኑ",
+    "description": "በዓለም አቀፍ ኤግዚቢሽኖቻችን እና በዓለም አቀፍ የአርቲስት ሽልማት ለግምገማ ፖርትፎሊዎዎትን ያስገቡ። ከሁሉም ዘርፎች እና መነሻዎች የመጡ አርቲስቶችን እንቀበለዋለን።",
+    "form": {
+      "artistName": "ሙሉ ስም",
+      "email": "ኢሜይል",
+      "country": "አገር",
+      "artworkTitle": "የጥበብ ስም / የኤግዚቢሽን ርዕስ",
+      "images": "ፖርትፎሊዮ / የጥበብ ምስሎች",
+      "statement": "የአርቲስት መግለጫ",
+      "submit": "ማመልከቻ ያስገቡ",
+      "submitting": "በማስገባት ላይ…",
+      "placeholder": {
+        "artistName": "የእርስዎ ስም",
+        "email": "your@email.com",
+        "country": "የእርስዎ አገር",
+        "artworkTitle": "የስራዎ ወይም የኤግዚቢሽን ርዕስ",
+        "statement": "ስለ ልምምዶ እና ምን ማግኘት እንደሚፈልጉ ይንገሩን..."
+      },
+      "fileHelp": "JPEG፣ PNG፣ WebP ወይም GIF (ከፍተኛው 10MB ለእያንዳንዱ)"
+    },
+    "messages": {
+      "success": "አመሰግናለሁ! ማመልከቻዎ ተቀብለናል። ስራዎ በኤግዚቢሽኖች ገጽ ላይ ይታያል። በሚቀጥለው እርምጃዎች ዙሪያ እንገናኛለን።",
+      "error": "ማመልከቻዎን በማስገባት ላይ ስህተት ተፈጥሯል።"
+    },
+    "footer": {
+      "questions": "ጥያቄዎች አሉዎት?",
+      "contact": "አግኙን"
+    }
+  },
+  "footer": {
+    "description": "ዋካ ዓለም አቀፍ የኪነ-ጥበብ እና ሙዚቃ ኔክሰስ በአስተናጋጅ አገሮች ሕጋዊ ሥነ-ሥርዓቶች መሠረት የሚሠራ እና ለግልጽነት፣ ለአካታችነት እና ለሙያዊ አንድነት የሚቁርጠን የራሱ የሆነ ባህላዊ ተነሳሽነት ነው።",
+    "quickLinks": "ፈጣን ማገናኛዎች",
+    "contact": "አግኙን",
+    "social": "ማህበራዊ ሚዲያ",
+    "rights": "ሁሉም መብቶች የተጠበቁ ናቸው።"
+  },
+  "common": {
+    "logoWaka": "ዋካ",
+    "logoNexus": "ኔክሰስ",
+    "loading": "በመጫን ላይ...",
+    "error": "ስህተት ተፈጥሯል",
+    "retry": "እንደገና ይሞክሩ",
+    "save": "አስቀምጥ",
+    "cancel": "ይቅር",
+    "delete": "ሰርዝ",
+    "edit": "አስተካክል",
+    "create": "ፍጠር",
+    "update": "አዘምን",
+    "back": "ተመለስ",
+    "next": "ቀጣይ",
+    "previous": "የቀድሞ",
+    "submit": "አስገባ",
+    "close": "ዝጋ",
+    "open": "ክፈት",
+    "view": "እይ",
+    "search": "ፈልግ",
+    "filter": "አጣራ",
+    "sort": "አስቀምጥ",
+    "all": "ሁሉም",
+    "none": "ምንም",
+    "required": "አስፈላጊ",
+    "optional": "አማራጭ"
+  }
+}
